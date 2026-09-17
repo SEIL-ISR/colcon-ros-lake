@@ -1,0 +1,10 @@
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+.claude/
+dist/
+
+# macOS Finder metadata
+.DS_Store
